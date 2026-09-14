@@ -1,0 +1,20 @@
+{
+  "matching": "ghép tối ưu theo IoU hình học, không dùng lớp khi ghép",
+  "comparison_iou_floor": 0.01,
+  "floor_is_official_pass_threshold": false,
+  "calibration_image_ids": [
+    "drive_022",
+    "drive_033",
+    "drive_038",
+    "drive_008"
+  ],
+  "matched_boxes": 88,
+  "mean_iou": 0.813868,
+  "median_iou": 0.846275,
+  "class_agreement": 0.943182,
+  "unmatched_mine": 32,
+  "unmatched_comparison": 1,
+  "comparison_source": "peer",
+  "interpretation_warning": "Mức đồng thuận giữa hai người đo khả năng tái lập quy tắc, không chứng minh cả hai đều đúng.",
+  "comparison_export_sha256": "3d29e5c2e44aa71b41885a76b932fed0179f1147622f8fb2aa076b70f0ddd484"
+}
