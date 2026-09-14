@@ -1,0 +1,7 @@
+Train: Train.txt
+names:
+  0: car
+  1: truck
+  2: bus
+  3: van
+path: .
