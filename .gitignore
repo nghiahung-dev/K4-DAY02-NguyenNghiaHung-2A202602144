@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.ipynb_checkpoints/
+day2_lab_outputs/
+day2_submission_staging/
+*.zip
+*.zip.pending
+!data/day2-cvat-input.zip
+runs/
+*.pt
+day2_poc_artifacts/
